@@ -33,9 +33,9 @@ cd backend
 pip install -r requirements.txt
 
 # Set your Anthropic API key
-export Groq_API_KEY=your_key_here   # Linux/Mac
+export GROQ_API_KEY=your_key_here   # Linux/Mac
 # OR
-set Groq_API_KEY=your_key_here      # Windows CMD
+set GROQ_API_KEY=your_key_here      # Windows CMD
 
 uvicorn main:app --reload
 # Runs on http://localhost:8000
