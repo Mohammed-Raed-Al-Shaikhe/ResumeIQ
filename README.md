@@ -65,5 +65,5 @@ Navigate to **http://localhost:5173** in your browser.
 
 ## Tech Stack
 
-- **Backend:** Python, FastAPI, Anthropic Groq API
+- **Backend:** Python, FastAPI, Groq API
 - **Frontend:** React 18, Vite, CSS (no UI library)
