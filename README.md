@@ -1,6 +1,6 @@
 # ResumeIQ — Smart Resume Screener
 
-An AI-powered resume screening tool built with FastAPI + React + Claude API.
+An AI-powered resume screening tool built with FastAPI + React + Groq API.
 
 ## Project Structure
 
@@ -65,6 +65,5 @@ Navigate to **http://localhost:5173** in your browser.
 
 ## Tech Stack
 
-- **Backend:** Python, FastAPI, Anthropic Claude API
+- **Backend:** Python, FastAPI, Anthropic Groq API
 - **Frontend:** React 18, Vite, CSS (no UI library)
-- **AI Model:** claude-sonnet-4-6
